@@ -1242,6 +1242,7 @@ dependencies = [
  "platform-windows",
  "ring",
  "rustix",
+ "security-framework",
  "semver",
  "serde",
  "serde_json",
